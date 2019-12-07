@@ -1,0 +1,5 @@
+#ENTM3U
+#EXTINF:-1,Fox
+http://tvnanet.xyz:25461/live/palmeiras/1986/86.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://tvnanet.xyz:25461/live/palmeiras/1986/245.m3u8
