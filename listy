@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Cinemax
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax480p_22d200f8_8d092257f62bb0132e193739b030a540d5f0c84f/playlist.m3u8
+#EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_779a3b448bd7b1c42b0fffc0072254aad3bd7e44/playlist.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://tvnanet.xyz:25461/live/palmeiras/19862020/245.m3u8
+#EXTINF:-1,Warner Channel
+http://tvnanet.xyz:25461/live/palmeiras/19862020/265.m3u8
