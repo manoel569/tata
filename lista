@@ -1,0 +1,11 @@
+#EXTM3U
+EXTINF:-1,COMBATE
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_d2ba041d3b95ecdf1728cc9434025c473f981d27/playlist.m3u8
+EXTINF:-1,HBO PLUS
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus480p_17820ac1_5134fceb2054e0c4af17984c9dc2e61f9db78646/playlist.m3u8
+#EXTINF:-1,HBO
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_18eb31afc39399060ae672a1d7b46ae3852e0fbb/playlist.m3u8
+EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_751d98c554be1da90e53317b5ceea5d62c109707/playlist.m3u8
+EXTINF:-1,TELECINE PREMIUM
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/telecinepremium_a929eb33_e3159134dbb5da4ffe05ef5e0f3ee089832e8e2b/playlist.m3u8
